@@ -252,4 +252,10 @@ plt.tight_layout()
 - **Jupyter Notebooks** – The tool I used for writing, testing, and visualizing Python code.  
 - **VS Code** – Software I used for writing and running python scripts.  
 - **GitHub** – Used for version control and sharing project code.  
-- **Dataset Source** – Data obtained from Luke Barausse’s Python course.  
+
+
+Here’s a professional and concise conclusion for your project:
+
+## **Conclusion:**
+
+This project analyzes different markets and regions across the globe, focusing on key performance indicators such as profits, sales, and top-selling products. By examining geographic trends and product-level performance, it provides deeper insights into which areas and offerings drive the most business value. These findings support data-driven decisions for strategic planning, resource allocation, and future market expansion.
