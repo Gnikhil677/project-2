@@ -75,7 +75,7 @@ sns.despine()
 ```
 
 #### Results
-![Sales & profit chart](images\sales_profit_trend.png)
+![Sales & profit chart](images/sales_profit_trend.png)
 
 #### Insights
 
@@ -125,7 +125,7 @@ plt.tight_layout()
 ```
 
 #### Results
-![Top 5 Regions by sales & profit](images\Top_regions_by_sales_profit.png)
+![Top 5 Regions by sales & profit](images/Top_regions_by_sales_profit.png)
 
 #### Insights 
 
@@ -163,7 +163,7 @@ sns.despine()
 ```
 
 #### Results
-![Top_cities_by_profit](images\top_ctites.png)
+![Top_cities_by_profit](images/top_ctites.png)
 
 #### Insights
 
@@ -191,7 +191,7 @@ ax.set_title('Products with Most Quantity Sold', fontsize=18, fontweight='bold',
 ```
 
 #### Results
-![Top_products_by_sales](images\top_products.png)
+![Top_products_by_sales](images/top_products.png)
 
 #### Insights
 
@@ -226,7 +226,7 @@ plt.tight_layout()
 ```
 
 #### Results
-![Sales & Profit by market](images\Sales_profit_market.png)
+![Sales & Profit by market](images/Sales_profit_market.png)
 
 #### Insights
 
